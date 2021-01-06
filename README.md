@@ -1,11 +1,11 @@
-# Estudos 
+# Estudos JavaScript
 Repositório dedicado a estudos continuos sobre JavaScript.
 
-# Sumário: 
-1 - Trocando Valores de Variáveis
-2 - Máximo Entre Dois Valores
-3 - FizzBuzz
-4 - Medidor de Velocidade
-5 - Par ou Impar
+### Sumário: 
+- Trocando Valores de Variáveis
+- Máximo Entre Dois Valores
+- FizzBuzz
+- Medidor de Velocidade
+- Par ou Impar
 
  
