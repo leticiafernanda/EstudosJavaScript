@@ -1,5 +1,5 @@
 # Estudos JavaScript
-Repositório dedicado a estudos continuos sobre JavaScript.
+Repositório dedicado a estudos continuos relacionados ao JavaScript.
 
 ### Sumário: 
 - Trocando Valores de Variáveis
